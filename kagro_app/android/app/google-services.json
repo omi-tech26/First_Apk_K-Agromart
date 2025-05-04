@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183473351724",
+    "project_id": "kagroapp",
+    "storage_bucket": "kagroapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183473351724:android:b115ea1e3b5eb96717b589",
+        "android_client_info": {
+          "package_name": "com.example.kagro_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7YkAqUxUkQefRXSMXOLfUZsuvMCdYG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

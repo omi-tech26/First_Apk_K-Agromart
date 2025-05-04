@@ -1,0 +1,2 @@
+C:/Users/V COm/Downloads/kagro_app/kagro_app/android/app/.cxx/Debug/x2y3i2o5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/V COm/Downloads/kagro_app/kagro_app/android/app/.cxx/Debug/x2y3i2o5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
