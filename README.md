@@ -1,2 +1,16 @@
-# First_Apk_K-Agromart
-"A seamless e-commerce experience for modern shoppers" Online Product store where we can buy the products (similar to Flipkart, Amazon, etc)  Finding quality products at the best price is challenging K-Agromart helps Users browse, filter and purchase products easily, It is a Responsive UI - works on Mobile and tablet.
+# kagro_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
